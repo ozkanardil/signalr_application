@@ -1,0 +1,24 @@
+﻿@page
+<div class="container">
+    <div class="row p-1">
+        <div class="col-12">Message</div>
+        <div class="col-52"><input type="text" class="w-100" id="messageInput" /></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-12 text-end">
+            <input type="button" id="sendButton" value="Send Message To All Clients" />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-12">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
