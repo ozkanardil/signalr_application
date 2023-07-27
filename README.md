@@ -29,12 +29,3 @@ Shares the same real-time messaging capabilities with Web Client 1 and the deskt
 Ensures consistent communication across all platforms.
 
 Explore this repository to find the source code for each project, and see how SignalR facilitates instant messaging and bi-directional communication between diverse clients, making it an ideal solution for real-time collaboration scenarios.
-
-Feel free to fork and customize this solution for your specific use case and incorporate it into your own projects. Happy messaging! 🚀📩
-
-
-
-
-
-Regenerate response
-
